@@ -1,6 +1,6 @@
 [project]
 name = "lossy-image"
-version = "0.1.0"
+version = "0.1.1"
 description = "A framework for performing lossy image compression using various algorithms and evaluating the compression quality with multiple metrics"
 readme = "README.md"
 authors = [
